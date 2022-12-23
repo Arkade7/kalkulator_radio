@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.kalkualtoruas"
+        applicationId 'com.example.KalkulatorRadio'
         minSdk 26
         targetSdk 32
         versionCode 1
